@@ -13,12 +13,16 @@ Any initiative that involves the use of machine learning. Examples:
 - Chatbots
 - Disease prediction models
 - EHR and RCM tools
+- Clinical decision support tools and models
+- Voice transcription tools
 
 ## What does the tool do?
 
 - Track and manage AI models in project, development and deployment stages.
 - Maintain records of ethical reviews, security audits, HIPAA compliance, incident reports and more.
 - Enable communication between multi-disciplinary teams
+- Provides frameworks and templates for vetting and tracking projects
+- Provides dashboards and reports to aid stakeholders in making decisions
 
 
 
