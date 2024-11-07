@@ -1,6 +1,6 @@
 # Welcome to the SAIG Health System Repo
 
-SAIG [System for AI Governance] is an open-source project management and collaboration tool specifically designed to meet the unique needs of AI Governance teams in Healthcare. This tool enables AI Governance committees to oversee, document, and manage AI projects effectively, ensuring compliance, transparency, and above all, patient safety throughout the lifecycle.
+SAIG (System for AI Governance) is an open-source project management and collaboration tool specifically designed to meet the unique needs of AI Governance teams in Healthcare. This tool enables AI Governance committees to oversee, document, and manage AI projects effectively, ensuring compliance, transparency, and above all, patient safety throughout the lifecycle.
 
 ## Why do We Need a Specialized Open-Source Tool for AI Governance Teams?
 
@@ -13,7 +13,6 @@ The tool is created to help AI Governance committees that are managinging AI ini
 ## What is your definition of an AI initiative?
 
 Any initiative that involves the use of machine learning. Examples:
-
 - Chatbots
 - Disease prediction models
 - EHR and RCM applications
