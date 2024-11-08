@@ -27,6 +27,10 @@ Any initiative that involves the use of machine learning. Examples:
 - Provides frameworks and templates for vetting and tracking projects
 - Provides dashboards and reports to aid stakeholders in making decisions
 
+## Why can't I use an existing project management tool for this purpose?
+- Project management tools have too many features that are not required for AI Governance or oversight
+- They lack features that are required for AI Governance (ex: ready-built templates to review AI initiatives)
+
 # Screenshots
 
 ## Access Detailed Reports
